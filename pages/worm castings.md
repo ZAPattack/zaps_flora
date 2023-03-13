@@ -1,0 +1,16 @@
+- Description:
+	- The organic substance worm casting, also called vermicompost, is made from earth worms which is their  excrement and are naturally occurring in most soils.
+	-
+- Advantages:
+	- Using worm as a part of soil composition can sometimes help fertilizing less than usual. Is also can’t burn the roost of the plant.
+	- Makes soil more moist absorbent.
+	- It is rich in minerals such as nitrates, phosphorus, potassium, magnesium, calcium, iron, carbon, zinc, copper and much more.
+	- Adds good bacteria’s and enzymes.
+	-
+- Disadvantages:
+	- Worm castings can be expensive
+	- Some worm castings can contain weed seeds and harmful bacteria.
+-
+- [For more information on advantages, click here.](https://www.planetnatural.com/worm-castings-benefits/)
+- [For more about both advantages and disadvantages, click here.](https://helpmecompost.com/vermicompost/disadvantages-of-worm-castings/)
+-
