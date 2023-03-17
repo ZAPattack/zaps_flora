@@ -1,7 +1,7 @@
 # zaps_flora
 
 ## 🌱 **Welcome to Zaps plant database, ** 🌱
-🌿 ** where odd, beautiful, rare and common plants are described** 🌿
+🌿 **where odd, beautiful, rare and common plants are described** 🌿
 
 Purpose: The main focus is keeping and caring for houseplants. Outdoor plant care might be added, but will not be a priority for documentation.
 
@@ -27,8 +27,9 @@ Step:5 Choose downloaded folder called "zaps_flora-main"
 
 Step 6: Restart logseq. 
 
-Step 7: And voila # 🪴🌵🌷🪱
+Step 7: And voila 
 
+# 🪴🌵🌷🪱
 
 FYI:
 The database will be updated once in a while with more plant genus, species and other important informaitons. 
