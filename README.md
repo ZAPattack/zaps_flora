@@ -1,8 +1,16 @@
 # zaps_flora
 
-Welcome to Zaps plant database, where both odd, beautiful and common house plants are carefully described!
+## **Welcome to Zaps plant database, where odd, beautiful, rare and common plants are described** 
 
-How to install me!
+Purpose: The main focus is keeping and caring for houseplants. Outdoor plant care might be added, but will not be a priority for documentation.
+
+The plant care needs in the database are decribed as such:
+Light, water/humidity, fertilsing, potting/soil compositions, dormancy, propagation etc. 
+
+
+
+
+## How to install me!
 
 Step 1: download Logseq
 
