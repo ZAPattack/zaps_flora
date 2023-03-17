@@ -1,7 +1,7 @@
 # zaps_flora
 
 ## 🌱 **Welcome to Zaps plant database,** 🌱
-## 🌿 **where odd, beautiful, rare and common plants are described** 🌿
+🌿 **where odd, beautiful, rare and common plants are described** 🌿
 
 Purpose: The main focus is keeping and caring for houseplants. Outdoor plant care might be added, but will not be a priority for documentation.
 
