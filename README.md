@@ -30,4 +30,4 @@ Step 7: And voila.
 
 
 FYI:
-The database will be updated once in a while with more plants and other important informaitons about plants end knowledge thereof. 
+The database will be updated once in a while with more plant genus, species and other important informaitons. 
