@@ -1,0 +1,6 @@
+- ## Anatomy description:
+- Stems are reddish and partly covered with scale-like hair.
+- The leaf shape is ovate/oval-rhombic i shape and therefor has almost entire margins and smooth teeth.
+-
+- Leaf shape:
+- ![image.png](../assets/image_1679071643404_0.png){:height 500, :width 500}
